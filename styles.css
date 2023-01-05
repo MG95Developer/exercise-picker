@@ -1,0 +1,29 @@
+main{
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    margin-bottom: 2em;
+}
+
+div#show-generated-number{
+    padding: 2em;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+
+button#button{
+    padding: 15px 35px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 1.5em;
+}
