@@ -1,0 +1,31 @@
+1- Create react app inside a folder that must exist in the desktop. Run it!
+2- Create react app in the PC's default location. Run it!
+3- Create and render and example of JSX.
+4- Create a custom component inside the components folder that needs to live inside src folder.
+    This component needs to take props. Pass in 3 props to the component. Render it 3 times with different values assigned to it.
+5- Use the ternary operator instead of IF/ELSE, to conditionally return something.
+6- Conditional Rendering: using the ternary operator show 1 example for the longer version and 1 example for shorter version.
+7- Conditional Rendering: Combine ternary operator and conditional styling.
+8- Conditional Rendering: Set triple styling using ternary operator.
+9- Conditional Rendering: Render a given HTML TAG only if a given variable is set to true.
+10- Update a counter variable when buttons "+" and "-" are pressed, using react state.
+11- Loop through an array and display each name on a single line.
+12- Loop through an array of objects and display the name using the implicit return method.
+13- Loop through an array of objects and display the name and age for each user inside a custom component.
+14- Loop through the planets array and using an IF statment, only render the name of the planets that are a gas planet!
+15- Loop through the planets array and using the TERNARY operator, only render the name of the planets that are a gas planet!
+16- Loop through the planets array and using the TERNARY operator and &&, only render the name of the planets that are a gas planet!
+17- Loop through the array and only render the names of the girls that are 'hot', 'female' and over 25 years old.
+18- Create an example where you use useState() + Input TAG + onChange={} event.
+19- Show / Hide (Toggle) something everytime a button is clicked!
+20- Start showing text in black. When the button is cliked turns to green. Everytime the button gets clicked the color toggles.
+21- Explicar detalhadamente os passos: Como estruturar a lógica para um botão ir alternando a cor do texto, a cada vez que é clicado.
+22- Using react create and display a counter. This counter must have 3 buttons: increment, decrement, reset the counter.
+23- Use useEffect() to change the browser tab name to a custom message. Tip: document.title.
+24- Create a To-do List: Display all to-dos on the page.
+25- Create a To-do List: Display all to-dos on the page + DELETE (LONGER VERSION) individual todo.
+(In this version if there are 2 or more exact to-dos both will be eliminated even if 1 single delete button is pressed).
+26- Create a To-do List: Display all to-dos on the page + DELETE (SHORTER VERSION) individual todo.
+(In this version if there are 2 or more exact to-dos both will be eliminated even if 1 single delete button is pressed).
+27- Use map() to get data from the internal JSON file. (Also when nested). Make sure to confirm that there are records to be rendered on the page!
+28- WHEN should you run the command 'npm init' and WHY? I can run the command 'npm init' WHEN I want do build my node_modules folder when it does not exist.
